@@ -19,6 +19,7 @@ usethis::git_sitrep()
 
 # now do your R work
 print("second test")
+print("third test")
 # for this assignment, create a script file named
 # <your-university-user-name-from-your-uog-email-address>.R
 # for me, that would be cottenie.R
